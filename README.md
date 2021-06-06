@@ -1,6 +1,4 @@
-# django-rest-api
-
-----------------------DOCUMENTATION---------------------------
+# DOCUMENTAION FOR DEMO APP
 
 
 
